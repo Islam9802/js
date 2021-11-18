@@ -178,3 +178,4 @@ let laptop = new Laptop('i7', '16GB', {type: 'ssd', capacity: '1TB'}, 16, 'lenav
 laptop.color = 'red';
 
 console.log(laptop);
+console.log("salom dsaydgasyfas yasfcasghcas hsgsaghcasvgh hgvchj");
